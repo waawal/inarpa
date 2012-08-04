@@ -1,4 +1,4 @@
-# https://.github.com/waawal/inarpa/
+# https://github.com/waawal/inarpa/
 # License: BSD
 
 def create(ip, suffix='in-addr.arpa'):
