@@ -19,6 +19,7 @@ setup(
                 'names of ipv4-addresses.',
     long_description=long_description,
     py_modules=['inarpa'],
+    package_data = { '': ['README.rst'] },
     zip_safe=True,
     platforms='any',
     classifiers=[
