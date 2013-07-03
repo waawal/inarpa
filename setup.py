@@ -10,7 +10,7 @@ with open('README.rst') as file:
 
 setup(
     name='inarpa',
-    version='0.1.1',
+    version='0.1.2',
     url='https://github.com/waawal/inarpa/',
     license='BSD',
     author='Daniel Waardal',
